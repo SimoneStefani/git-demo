@@ -1,1 +1,6 @@
-console.log("Hello to KTH!");
+
+const logger = () => {
+    console.log("Hello to KTH!");
+}
+
+logger()
