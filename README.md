@@ -1,4 +1,4 @@
-# git-demo
+# Git Demo
 
 To install dependencies:
 
